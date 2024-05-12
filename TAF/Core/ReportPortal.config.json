@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "server": {
+    "url": "https://demo.reportportal.io",
+    "project": "arnis1305_TAF",
+    "authentication": {
+      "apiKey": "TAF_-YgnzvM0QymsD0iiKE9hSqxdruki4xa0WcAGQKYxN5u4e2dhUAW2ucI7swV0kihO"
+    }
+  },
+  "launch": {
+    "name": "[TAF .Net]",
+    "description": "TAF_description",
+    "debugMode": false,
+    "attributes": [ "tag1", "tag2", "platform:x64" ]
+  }
+}
